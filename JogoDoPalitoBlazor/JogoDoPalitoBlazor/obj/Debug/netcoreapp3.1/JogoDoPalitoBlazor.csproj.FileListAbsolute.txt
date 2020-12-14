@@ -1,0 +1,102 @@
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.exe
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.deps.json
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.runtimeconfig.json
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.runtimeconfig.dev.json
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.dll
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.pdb
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.Views.dll
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.Views.pdb
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.RazorComponent.input.cache
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\JogoDoPalitoBlazor.dll
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.TagHelpers.input.cache
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.TagHelpers.output.cache
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.RazorCoreGenerate.cache
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.AssemblyInfo.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.RazorTargetAssemblyInfo.cache
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.RazorTargetAssemblyInfo.cs
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.Views.pdb
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\staticwebassets\JogoDoPalitoBlazor.StaticWebAssets.Manifest.cache
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\staticwebassets\JogoDoPalitoBlazor.StaticWebAssets.xml
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.dll
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.pdb
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.genruntimeconfig.cache
+C:\Users\dell\Desktop\Pasta David\Pasta Web\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.csproj.CopyComplete
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\appsettings.json
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.exe
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.deps.json
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.runtimeconfig.json
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.runtimeconfig.dev.json
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.dll
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.pdb
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.Views.dll
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\bin\Debug\netcoreapp3.1\JogoDoPalitoBlazor.Views.pdb
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.csprojAssemblyReference.cache
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.AssemblyInfoInputs.cache
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.AssemblyInfo.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.csproj.CoreCompileInputs.cache
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.MvcApplicationPartsAssemblyInfo.cache
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.RazorComponent.input.cache
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\JogoDoPalitoBlazor.dll
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.TagHelpers.input.cache
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.TagHelpers.output.cache
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.RazorCoreGenerate.cache
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.RazorAssemblyInfo.cache
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.RazorAssemblyInfo.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.RazorTargetAssemblyInfo.cache
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.RazorTargetAssemblyInfo.cs
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.Views.pdb
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\staticwebassets\JogoDoPalitoBlazor.StaticWebAssets.Manifest.cache
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\staticwebassets\JogoDoPalitoBlazor.StaticWebAssets.xml
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.dll
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.pdb
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.genruntimeconfig.cache
+D:\JogoDoPalitoBlazor\JogoDoPalitoBlazor\obj\Debug\netcoreapp3.1\JogoDoPalitoBlazor.csproj.CopyComplete

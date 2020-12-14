@@ -1,0 +1,129 @@
+﻿@page "/"
+
+<h1>Bem Vindo! Ao "Jogo do Palito"</h1>
+
+<p>Digite o numero de Palitos: </p>
+<input id="Counter" type="number" disabled="@Input" min="20" max="30" @bind="toothpick" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<button id="btn" class="btn btn-primary" disabled="@Input" @onclick="Start">Jogar</button>
+<p>Remova de 1 a 3 palitos: </p>
+<input id="Counter" type="number" disabled="@Input2" @bind="removalplayer" min="1" max="3" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<button id="btn" class="btn btn-primary" disabled="@Input2" @onclick="Play">Retirar</button>
+<p>@Resposta</p>
+<p>@Fim</p>
+@code {
+    public string Fim = String.Empty;
+    public string Resposta = String.Empty;
+    public bool Input2 { get; set; } = true;
+    public int toothpick { get; set; } = 20;
+    public int removalplayer { get; set; } = 1;
+    public bool Input { get; set; }
+    public int removalComputer { get; set; } = 1;
+    int user = 0;
+    int total = 0;
+
+    private void Start()
+    {
+        //Click botão jogar
+
+        if (toothpick < 20 || toothpick > 30)
+        {
+            toothpick = 20;
+        }
+        Fim = String.Empty;
+        Resposta = String.Empty;
+        Input = !Input;
+        Input2 = !Input2;
+    }
+    private void Play()
+    {
+    inicio:
+        if (toothpick >= 1 && toothpick <= 30)
+        {
+            Resposta = String.Empty;
+            switch (user)
+            {
+                case 0:
+
+
+                    total = toothpick - removalplayer;
+                    if (total < 0 || removalplayer > 3 || removalplayer < 0)
+                    {
+                        Resposta = " Valor Invalido ";
+                        break;
+                    }
+                    else
+                    {
+                        toothpick = toothpick - removalplayer;
+                    }
+                    if (toothpick <= 0)
+                    {
+                        Fim = "!!!Você Perdeu O Jogo!!! ";
+                        Input = !Input;
+                        Input2 = !Input2;
+                        toothpick = 10;
+                        break;
+                    }
+                    user++;
+
+                    goto inicio;
+
+                case 1:
+                    Resposta = String.Empty;
+                    toothpick = Computer(toothpick);
+                    Resposta = "Eu Retiro " + removalComputer + " - RESTAM: " + toothpick + " PALITOS";
+                    if (toothpick <= 0)
+                    {
+                        Resposta = "Eu Retiro" + removalComputer + " - RESTAM: " + toothpick + " PALITOS ";
+                        Fim = "!!!Você Venceu o jogo!!!";
+                        Input = !Input;
+                        Input2 = !Input2;
+                        toothpick = 10;
+                        break;
+                    }
+                    user--;
+                    break;
+            }
+        }
+
+    }
+
+    //jogada do computador
+    public int Computer(int toothpick)
+    {
+        int calc = 0;
+        int total = 0;
+        int number = 0;
+        int limit = 3;
+        for (int number2 = 1; number2 <= 2; number2++)
+        {
+            total = toothpick - number2;
+            if (total == 1)
+            {
+                number = number2;
+                break;
+            }
+            else if (total > 1)
+            {
+                calc = (total % (limit + 1));
+                if (calc > 0 && calc <= 3)
+                {
+                    number = calc;
+                    break;
+                }
+
+
+            }
+            else if (total == 0)
+            {
+                number = number2;
+                break;
+            }
+        }
+        toothpick = toothpick - number;
+        removalComputer = number;
+        return (toothpick);
+    }
+
+}
